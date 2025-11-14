@@ -1,4 +1,3 @@
-#include <stdio.h>
 import math
 
 print("""welcome to the 2 dimensional-area,perimeter,volume and surface area calculator by big C
@@ -661,52 +660,4 @@ use the letter representing your choice to answer""")
     except ValueError:
         print("try another shape,circles are not yet included!!")
 
-        
-
-                                        
-
-
-
-                            
-
-                            
-
-                            
-
-                            
-                                
-
-
-
-                        
-                        
-
-                        
-                        
-
-
-                    
-
-
-            
-
-
-
-            
-
-
-
-                    
-
-                    
-
-
-
-
-
-
-                            
-                                    
-
-                                
-                                
+    
